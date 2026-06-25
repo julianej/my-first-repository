@@ -8,3 +8,15 @@ I'm a creative developer who enjoys building web applications, exploring new tec
 I love learning about software architecture, accessibility, and user experience. 
 When I'm not coding, you'll probably find me experimenting with side projects, making music or urban art.
 
+# CV 
+
+- 2010 / learned Webdesign + RWD Development
+- 2015 / worked in a fast Scaling leading Tech Startup
+- 2017 / designd End-to End User Journeys as UX/UI Designerin
+- 2019 / build complex UI Component Design Systems
+- 2022 / focused on Customer Centric Brand Redesign
+- 2023 / facilitated Feature Priorisation Workshops
+- 2026 / define Project Management Roadmaps with OKS & KPI'S
+
+# [7] STUDIO is my Design Studio
+[7STUDIO Website](https://www.julianejeske.com/)
