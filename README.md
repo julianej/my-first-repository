@@ -19,7 +19,7 @@ When I'm not coding, you'll probably find me experimenting with side projects, m
 - 2026 / define Project Management Roadmaps with OKS & KPI'S
 - 2026 ...learning REACT
 
-# [7] STUDIO is my Design Studio
+# [7] STUDIO is my Design Studio Website
 [7STUDIO Website](https://www.julianejeske.com/)
 
 ![description of image](https://www.julianejeske.com/img/portfolio-desktop-noise-mood_v1.png)
