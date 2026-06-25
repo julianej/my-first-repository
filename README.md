@@ -1,6 +1,6 @@
 # my-first-repository
 2026_06_25_Spiced-Academy Github and Markdown
-welcome visitors to my page
+welcome visitors to my page, not my first REPO, but leveling up CODING
 
 # about me
 
