@@ -10,7 +10,7 @@ When I'm not coding, you'll probably find me experimenting with side projects, m
 
 # CV 
 
-- 2010 / learned Webdesign + RWD Development
+- 2010 / learned Webdesign + RWD Development in Berlin
 - 2015 / worked in a fast Scaling leading Tech Startup
 - 2017 / designd End-to End User Journeys as UX/UI Designerin
 - 2019 / build complex UI Component Design Systems
