@@ -9,6 +9,7 @@ I love learning about software architecture, accessibility, and user experience.
 When I'm not coding, you'll probably find me experimenting with side projects, making music or urban art.
 
 # CV - connect with me on LinkedIn
+[LinkedIn](https://www.linkedin.com/in/julianejeske)
 
 - 2010 / learned Webdesign + RWD Development in Berlin
 - 2015 / worked in a fast Scaling leading Tech Startup
