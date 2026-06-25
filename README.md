@@ -1,5 +1,5 @@
 # my-first-repository
-'**not my first REPO, but leveling up CODING**'
+## not my first REPO, but leveling up CODING
 2026_06_25_Spiced-Academy Github and Markdown
 welcome visitors to my page,
 
