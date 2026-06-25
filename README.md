@@ -20,3 +20,13 @@ When I'm not coding, you'll probably find me experimenting with side projects, m
 
 # [7] STUDIO is my Design Studio
 [7STUDIO Website](https://www.julianejeske.com/)
+
+
+# Skill	Experience
+
+HTML/CSS	Advanced
+Git	Advanced
+JavaScript	Advanced
+*React	LEARNING*
+Python NOT
+
