@@ -22,4 +22,4 @@ When I'm not coding, you'll probably find me experimenting with side projects, m
 # [7] STUDIO is my Design Studio
 [7STUDIO Website](https://www.julianejeske.com/)
 
-![giphy code img]([url to image](https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf))
+![giphy code img]([(https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf)])
