@@ -8,7 +8,7 @@ I'm a creative developer who enjoys building web applications, exploring new tec
 I love learning about software architecture, accessibility, and user experience. 
 When I'm not coding, you'll probably find me experimenting with side projects, making music or urban art.
 
-# CV 
+# CV https://www.linkedin.com/in/julianejeske/
 
 - 2010 / learned Webdesign + RWD Development in Berlin
 - 2015 / worked in a fast Scaling leading Tech Startup
